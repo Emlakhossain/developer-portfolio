@@ -72,3 +72,7 @@ footer p{
     text-align: center;
 }
     
+section p{
+    text-align: justify;
+    padding: 10px ;
+}
